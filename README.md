@@ -11,7 +11,7 @@ region : Geographic indicator
 townsize : Size of hometown
 gender : Gender
 age : Age in years
-agecat : 
+
 
 
 
